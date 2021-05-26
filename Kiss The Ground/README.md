@@ -10,3 +10,5 @@ Vortrag zum Thema CO2-Speicherung und dessen Potenzial in Kulturböden auf der F
 https://www.farm-and-food.com/klimaschutz-durch-humusaufbau/
 
 https://www.youtube.com/watch?v=x1SgmFa0r04
+
+ICh versuche etwas neues
