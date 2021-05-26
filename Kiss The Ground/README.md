@@ -1,5 +1,6 @@
 # Kiss The Ground und Jana Epperlein
 Die erste Veranstatung der wiederauferstandenen Tacheles-Reihe fand am 12.05.2021 online statt. Zusammen mit der Wissenschaftlerin Dr. Jana Epperlein von der Gesellschaft für konservierende Bodenbearbeitung haben wir uns den Film "Kiss The Ground" angeschaut, in dem das CO2-Speichervermögen landwirtschaftlich genutzter Böden behandelt wird und Kritik an dem derzeitigen Umgang mit kulturböden blablabla....
+***
 
 # Rechercherhinweise
 
@@ -10,8 +11,3 @@ https://www.farm-and-food.com/klimaschutz-durch-humusaufbau/
 https://www.youtube.com/watch?v=x1SgmFa0r04
 
 
-    <iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
