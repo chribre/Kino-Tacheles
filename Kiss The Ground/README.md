@@ -6,3 +6,5 @@ Die erste Veranstatung der wiederauferstandenen Tacheles-Reihe fand am 12.05.202
 Vortrag zum Thema CO2-Speicherung und dessen Potenzial in Kulturböden auf der Farm & Food 4.0 in Berlin 2021
 
 https://www.farm-and-food.com/klimaschutz-durch-humusaufbau/
+
+https://www.youtube.com/watch?v=x1SgmFa0r04
