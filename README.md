@@ -8,4 +8,4 @@ Hier werden alle vergangenen Veranstatungen noch einmal thematisch kurz aufgearb
 
 Wenn Du einem Thema neue Referenzen hinzufügen möchtest, kannst du einfach ein neues "Issue" anlegen. Wir werden den Vorschlag dann in die entsprechende Veranstaltungsdokumentation mitaufnehmen. 
 
-![grafik](https://user-images.githubusercontent.com/44900699/120794934-20db9000-c539-11eb-937e-fdbba8755b6c.png)
+![grafik](https://user-images.githubusercontent.com/44900699/120795272-8fb8e900-c539-11eb-99cc-c71d640f2e27.png)
