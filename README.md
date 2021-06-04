@@ -6,6 +6,6 @@ Hier werden alle vergangenen Veranstatungen noch einmal thematisch kurz aufgearb
 
 ## Wie kann ich hier Inhalte hinzufügen?
 
-Wenn Du einem Thema neue Referenzen hinzufügen möchtest, kannst du einfach ein neues "Issue" anlegen. Wir werden den Vorschlag dann in die entsprechende Veranstaltungsdokumentation mitaufnehmen. 
+Wenn Du einem Thema neue Referenzen hinzufügen möchtest, kannst du einfach ein neues (Issue)[https://github.com/chribre/Kino-Tacheles/issues] anlegen. Wir werden den Vorschlag dann in die entsprechende Veranstaltungsdokumentation mitaufnehmen. 
 
 ![grafik](https://user-images.githubusercontent.com/44900699/120795272-8fb8e900-c539-11eb-99cc-c71d640f2e27.png)
