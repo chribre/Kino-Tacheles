@@ -9,7 +9,7 @@
 
 
 ### Umsetzung
-- [] Hygienekonzept für Wohnheimfläche
-- [] Absprache für Technik und Kooperation mit Kinokombinat
-- [] Hochschulbier
-- [] Popcorn
+[] - Hygienekonzept für Wohnheimfläche
+[] - Absprache für Technik und Kooperation mit Kinokombinat
+[] - Hochschulbier
+[] - Popcorn
