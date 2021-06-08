@@ -11,5 +11,5 @@
 ### Umsetzung
 - [ ] Hygienekonzept für Wohnheimfläche
 - [ ] Absprache für Technik und Kooperation mit Kinokombinat
-~~- [x] Hochschulbier~~
+- [x] ~~Hochschulbier~~
 - [ ] Popcorn
